@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7888379499727349792
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2253930770222405750, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: spawn
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: -2253930770222405750, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: drop
+      value: 
+      objectReference: {fileID: 5853634513914688385, guid: 7bcab489fb69d2846ad815266970ba01, type: 3}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: hitTime
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: enemyName
+      value: Planos Vivid Sem
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: dropChance
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: collisionDamage
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: maxHealthPoints
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -62.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -47.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505694, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Name
+      value: EnemyPlantSmall Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: -2253930770222405750, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 2a1c722394e371c45927006b67cacce7, type: 3}

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1114368997934853341
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2253930770222405750, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: enemyName
+      value: Planos Fuenos
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: shootTime
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: distanceGoal
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: collisionDamage
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: maxHealthPoints
+      value: 900
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 9213014021089200149, guid: 00857d545cb3c4c4d960ea43e23f1a41, type: 3}
+    - target: {fileID: 2865962091462505667, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: maxFollowDistance
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -238.24503
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.41960144
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505692, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505694, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Name
+      value: EnemyPlantFuenos
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505695, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505695, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2865962091462505695, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2a1c722394e371c45927006b67cacce7, type: 3}
